@@ -1,0 +1,17 @@
+{
+  "name":"mxmerchant"
+, "version":"0.0.1"
+, "ender": {
+    "dependencies": {
+      "ender-js":"0.3.8"
+    , "qwery":"latest"
+    , "bonzo":"latest"
+    , "bean":"latest"
+    , "morpheus":"latest"
+    , "domReady":"latest"
+    , "reqwest":"latest"
+    , "underscore": "latest"
+    },
+    "output": "js/lib/ender"
+  }
+}
